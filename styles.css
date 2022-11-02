@@ -178,6 +178,7 @@ button:focus {
     grid-template-rows: 1fr 0.2fr;
     height: 100vh;
      background-image: url(images/bg-intro-desktop.png);
+     background-size: cover;
   }
   .container {
     scale: 0.9;
