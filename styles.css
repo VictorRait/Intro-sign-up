@@ -22,7 +22,7 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   font-size: 16px;
-  background-image: url(/intro-component-with-signup-form-master/images/bg-intro-mobile.png);
+  background-image: url(images/bg-intro-mobile.png);
   background-color: var(--red);
   color: ghostwhite;
 
